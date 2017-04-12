@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PaimaiApplication:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="paimai.war">
+      <element id="artifact" artifact-name="PaimaiApplication:war exploded" />
+    </root>
+  </artifact>
+</component>
